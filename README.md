@@ -60,13 +60,13 @@ Currently:
 
 🎬 **[multimodal-recsys-agent](https://github.com/MadhaviSG/multimodal-recsys-agent)** &mdash; Production-shaped two-tower retrieval + FAISS + LightGBM ranker on MovieLens 25M. Building in public — design rationale and progress visible in commits.
 
-Also in flight: a culturally-aware image-to-music generative model (CMU 18-789), and a self-directed LLM inference curriculum covering KV cache, FlashAttention, quantization, speculative decoding, and vLLM internals.
+Also in flight: a culturally-aware image-to-music generative model
 
 ---
 
 ## Stack I reach for
 
-**Languages** Python · Java · TypeScript · SQL
+**Languages** Python · Java · SQL
 **ML / DL** PyTorch · HuggingFace Transformers · PEFT/LoRA · scikit-learn · XGBoost · LightGBM · FAISS
 **LLM & Agents** LangGraph · LlamaIndex · MCP · Pinecone · Vertex AI RAG Engine · Ollama · OpenHands SDK
 **Cloud / MLOps** AWS · GCP (Vertex AI, App Engine) · Azure · Terraform · Docker · Kubernetes · Helm
