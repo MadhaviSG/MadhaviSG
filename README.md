@@ -18,7 +18,7 @@ Looking for full-time ML / AI Engineer roles starting May 2026.
 
 ---
 
-I'm a graduating master's student at CMU specializing in machine learning, with **6 years of prior production software engineering experience** in fintech (Java/Spring Boot microservices at Fidelity Investments and Principal Financial Group, ~2,000 TPS on AWS). That background shapes how I approach ML — I care about systems that actually run, not just notebooks that work once.
+I'm a software engineer with **6 years of production fintech experience** (Java/Spring Boot microservices at Fidelity Investments and Principal Financial Group), now finishing my MS at CMU specializing in machine learning. I care about ML systems that actually run, not just notebooks that work once.
 
 Currently:
 - **Graduate Research Assistant** at the [CMU Language Technologies Institute](https://www.lti.cs.cmu.edu/), working on agent safety evaluation infrastructure with [Prof. Graham Neubig](https://phontron.com/) and [Prof. Maarten Sap](https://maartensap.com/).
@@ -79,6 +79,10 @@ Also in flight: a culturally-aware image-to-music generative model (CMU 18-789),
 [Portfolio](https://your-portfolio-url.com) · [LinkedIn](https://linkedin.com/in/madhavi-gulavani) · mgulavan [at] andrew [dot] cmu [dot] edu
 
 If you're hiring for **ML / AI Engineer roles starting May 2026** — or building something interesting in agent safety, applied LLMs, or ML systems — I'd love to hear from you.
+
+---
+
+*Outside of tech: carrom, badminton, and currently learning crochet.*
 
 <!--
   TODO when ready:
